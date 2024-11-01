@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woo-fullzoom 1.0.0\n"
+"POT-Creation-Date: 2017-05-09 23:48+0430\n"
+"PO-Revision-Date: 2017-05-09 23:48+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/woofullzoom.php:77
+msgid "Settings"
+msgstr ""
+
+#: classes/woofullzoom.php:84
+msgid "Enable"
+msgstr ""
+
+#: classes/woofullzoom.php:92
+msgid "Thumbnails slider"
+msgstr ""
+
+#: classes/woofullzoom.php:100
+msgid "Thumbnails slider items"
+msgstr ""
+
+#: classes/woofullzoom.php:108
+msgid "Thumbnails position"
+msgstr ""
+
+#: classes/woofullzoom.php:116
+msgid "Thumbnails border width"
+msgstr ""
+
+#: classes/woofullzoom.php:124
+msgid "Preloader"
+msgstr ""
+
+#: classes/woofullzoom.php:132
+msgid "Preloader color"
+msgstr ""
+
+#: classes/woofullzoom.php:140
+msgid "Thumbnails border color"
+msgstr ""
+
+#: classes/woofullzoom.php:148
+msgid "Active thumbnails border color"
+msgstr ""
+
+#: classes/woofullzoom.php:156
+msgid "Fullscreen background color"
+msgstr ""
+
+#: classes/woofullzoom.php:250
+msgid "Right"
+msgstr ""
+
+#: classes/woofullzoom.php:252
+msgid "Left"
+msgstr ""
+
+#: classes/woofullzoom.php:254
+msgid "in fullscreen page"
+msgstr ""
+
+#~ msgid "Link To Telegram"
+#~ msgstr "لینک به تلگرام"
+
+#~ msgid "General Settings"
+#~ msgstr "تنظیمات عمومی"
+
+#~ msgid "Modal Settings"
+#~ msgstr "تنظیمات مودال"
+
+#~ msgid "About"
+#~ msgstr "درباره"
+
+#~ msgid "Channel Type"
+#~ msgstr "نوع کانال"
+
+#~ msgid "Popup Type"
+#~ msgstr "نوع پاپ آپ"
+
+#~ msgid "Username"
+#~ msgstr "نام کاربری"
+
+#~ msgid "Private Link"
+#~ msgstr "لینک اختصاصی"
+
+#~ msgid "Once for each user"
+#~ msgstr "یک بار برای هر کاربر"
+
+#~ msgid "display only on mobile and tablet"
+#~ msgstr "نمایش فقط در موبایل و تبلت"
+
+#~ msgid "Public"
+#~ msgstr "عمومی"
+
+#~ msgid "Private"
+#~ msgstr "خصوصی"
+
+#~ msgid "Direct"
+#~ msgstr "مستقیم"
+
+#~ msgid "Modal"
+#~ msgstr "مودال"
+
+#~ msgid "Without @"
+#~ msgstr "بدون @"
+
+#~ msgid "Modal Skin"
+#~ msgstr "پوسته مودال"
+
+#~ msgid "Overlay Background"
+#~ msgstr "پشت زمینه پوشش"
+
+#~ msgid "Modal Image"
+#~ msgstr "تصویر مودال"
+
+#~ msgid "Modal Title"
+#~ msgstr "عنوان مودال"
+
+#~ msgid "Modal Description"
+#~ msgstr "توضیح مودال"
+
+#~ msgid "Button Text"
+#~ msgstr "متن دکمه"
+
+#~ msgid "Close Text"
+#~ msgstr "متن خروج"
+
+#~ msgid "Skin"
+#~ msgstr "پوسته"
+
+#~ msgid "Upload Image"
+#~ msgstr "آپلود تصویر"
+
+#~ msgid "Upload an image for the modal."
+#~ msgstr "یک عکس برای مودال آپلود نمایید."
+
+#~ msgid "Save Settings"
+#~ msgstr "ذخیره تغییرات"
+
+#~ msgid "Reset Defaults"
+#~ msgstr "تنظیم پیش فرض"
+
+#~ msgid "Modal Text"
+#~ msgstr "متن مودال"
+
+#~ msgid "Telegram Popup"
+#~ msgstr "پاپ آپ تلگرام"
+
+#~ msgid "Telegram"
+#~ msgstr "تلگرام"
+
+#~ msgid "Close"
+#~ msgstr "بستن"
+
+#~ msgid "About US"
+#~ msgstr "درباره ما"
+
+#~ msgid "Channel Link"
+#~ msgstr "آدرس کانال"
+
+#~ msgid "Joinchant"
+#~ msgstr "جوین چت"
+
+#~ msgid "About "
+#~ msgstr "درباره"
+
+#~ msgid "Telegram popup"
+#~ msgstr "پاپ آپ تلگرام"
